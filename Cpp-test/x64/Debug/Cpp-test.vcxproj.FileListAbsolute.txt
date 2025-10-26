@@ -1,0 +1,3 @@
+D:\Cpp-test\x64\Debug\raylib.dll
+D:\Cpp-test\x64\Debug\glfw3.dll
+D:\Cpp-test\Cpp-test\x64\Debug\Cpp-test.vcxproj.Up2Date

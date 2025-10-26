@@ -1,0 +1,6 @@
+﻿  Cpp-test.cpp
+D:\Cpp-test\Cpp-test.cpp(109,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Cpp-test\Cpp-test.cpp(109,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Cpp-test\Cpp-test.cpp(114,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Cpp-test\Cpp-test.cpp(115,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Cpp-test.vcxproj -> D:\Cpp-test\x64\Debug\Cpp-test.exe
