@@ -4,6 +4,8 @@ A snake game written in C++ with Raylib
 Ok no replay yet :)
 Dont ask me .. Cuz i copy the code line by line
 
+Maybe when i recreate this game in Lua using LOVE2D engine
+i 'll add the replay
 
 #############################################################
 CONFIGURE RAYLIB FOR VISUAL STUDIO
