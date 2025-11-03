@@ -3,4 +3,5 @@ D:\Cpp-test\Cpp-test.cpp(109,63): warning C4244: 'argument': conversion from 'fl
 D:\Cpp-test\Cpp-test.cpp(109,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 D:\Cpp-test\Cpp-test.cpp(114,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 D:\Cpp-test\Cpp-test.cpp(115,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  LINK : D:\Cpp-test\x64\Debug\Cpp-test.exe not found or not built by the last incremental link; performing full link
   Cpp-test.vcxproj -> D:\Cpp-test\x64\Debug\Cpp-test.exe
